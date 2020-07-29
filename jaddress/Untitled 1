@@ -1,0 +1,4 @@
+create tablespace jwc
+datafile 'C:\app\Administrator\oradata\xe\JWC.DBF'
+size 1024M
+AUTOEXTEND on next 8M;
